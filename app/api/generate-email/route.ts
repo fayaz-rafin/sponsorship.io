@@ -96,7 +96,7 @@ ${emailContent}
 **Instructions:**
 1.  Create a clear and concise **Subject Line** for the email.
 2.  Write the email body, ensuring it is well-structured with:
-    *   An appropriate greeting (e.g., "Dear ${recipientName},").
+    *   An appropriate greeting (e.g., "Hi ${recipientName},").
     *   Clear paragraphs addressing the email's purpose and including the key information.
     *   A professional closing (e.g., "Sincerely,", "Best regards,").
 3.  Adhere strictly to the specified **${emailTone}** tone.
